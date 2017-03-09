@@ -1,0 +1,13 @@
+Content\SpriteFont1.xnb
+Content\flyTexture.xnb
+Content\flies.xnb
+Content\Buzzing.xnb
+Content\Buzzing.wma
+Content\clap.xnb
+Content\killed.xnb
+Content\Background.xnb
+Content\swatter.xnb
+Content\cake.xnb
+Content\PlayButton.xnb
+Content\ButtonExit.xnb
+Content\Menu.xnb

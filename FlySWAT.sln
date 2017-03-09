@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlySWAT", "FlySWAT\FlySWAT\FlySWAT.csproj", "{B1AA1EF2-A006-40F5-AEB0-CBB305AB5344}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlySWATContent", "FlySWAT\FlySWATContent\FlySWATContent.contentproj", "{CCCF62E7-E446-41B0-8CD3-C4B6A23BD086}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1AA1EF2-A006-40F5-AEB0-CBB305AB5344}.Debug|x64.ActiveCfg = Debug|x86
+		{B1AA1EF2-A006-40F5-AEB0-CBB305AB5344}.Debug|x86.ActiveCfg = Debug|x86
+		{B1AA1EF2-A006-40F5-AEB0-CBB305AB5344}.Debug|x86.Build.0 = Debug|x86
+		{B1AA1EF2-A006-40F5-AEB0-CBB305AB5344}.Release|x64.ActiveCfg = Release|x86
+		{B1AA1EF2-A006-40F5-AEB0-CBB305AB5344}.Release|x64.Build.0 = Release|x86
+		{B1AA1EF2-A006-40F5-AEB0-CBB305AB5344}.Release|x86.ActiveCfg = Release|x86
+		{B1AA1EF2-A006-40F5-AEB0-CBB305AB5344}.Release|x86.Build.0 = Release|x86
+		{CCCF62E7-E446-41B0-8CD3-C4B6A23BD086}.Debug|x64.ActiveCfg = Debug|x86
+		{CCCF62E7-E446-41B0-8CD3-C4B6A23BD086}.Debug|x86.ActiveCfg = Debug|x86
+		{CCCF62E7-E446-41B0-8CD3-C4B6A23BD086}.Release|x64.ActiveCfg = Release|x86
+		{CCCF62E7-E446-41B0-8CD3-C4B6A23BD086}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
